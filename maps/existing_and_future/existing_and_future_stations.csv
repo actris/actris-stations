@@ -1,0 +1,118 @@
+network,Location,Component,lat,lon
+EMEP,	Abastumani,	sulphate.corrected,	41.755053,	42.825333
+EMEP,	Ahtari,	sum_nitric_acid_and_nitrate,	62.583333,	24.183333
+EMEP,	Anholt,	potassium,	56.716667,	11.516667
+EMEP,	Auchencorth.moss,	total.gaseous.mercury,	55.79216,	-3.2429
+EMEP,	Barcarrota,	sulphate.corrected,	38.475833,	-6.922778
+EMEP,	Bilthoven,	magnesium,	52.116667,	5.2
+EMEP,	Cabo.de.creus,	pm2.5.concentration,	42.319444,	3.316944
+EMEP,	Campisabalos,	sum_nitric_acid_and_nitrate,	41.281111,	-3.142778
+EMEP,	Chopok,	SO4--.concentration,	48.933333,	19.583333
+EMEP,	Churanov,	SO2.concentration,	49.066667,	13.6
+EMEP,	Danki,	SO4--.concentration,	54.9,	37.8
+EMEP,	De.zilk,	NH4+.concentration,	52.3,	4.5
+EMEP,	Diabla.gora-Puszcza.borecka,	dibenzo.ah.anthracene,	54.15,	22.066667
+EMEP,	Doñana,	sulphate.corrected,	37.0305,	-6.3319
+EMEP,	Donon,	calcium,	48.5,	7.133333
+EMEP,	Eibergen,	O3.concentration,	52.083333,	6.566667
+EMEP,	Els.torms,	NH4+.concentration,	41.4,	0.716667
+EMEP,	Guipry,	pm10.concentration,	47.831888889,	-1.836333333
+EMEP,	Harwell,	elemental.gaseous.mercury,	51.573056,	-1.316667
+EMEP,	Iskrba,	SO2.concentration,	45.566667,	14.866667
+EMEP,	Janiskoski,	magnesium,	68.933333,	28.85
+EMEP,	Jarczew,	NO2.concentration,	51.816667,	21.983333
+EMEP,	Karvatn,	elemental.carbon,	62.783333,	8.883333
+EMEP,	Keldsnor,	chloride,	54.733333,	10.733333
+EMEP,	Kollumerwaard,	sodium,	53.333889,	6.277222
+EMEP,	Kresin u Pacova,	O3.concentration,	49.58333,	15.08333
+EMEP,	La Coulonche,	sulphate.corrected,	48.633333,	-0.45
+EMEP,	La.casset,	potassium,	45,	6.466667
+EMEP,	Lahemaa,	potassium,	59.5,	25.9
+EMEP,	Leba,	NH4+.concentration,	54.75,	17.533333
+EMEP,	Leova II,	SO4--.concentration,	46.4884,	28.2835
+EMEP,	Lesnoy,	sulphate.corrected,	56.53,	32.94
+EMEP,	Mahon,	sodium,	39.866667,	4.316667
+EMEP,	Malin Head,	NO3-.concentration,	55.375,	-7.342778
+EMEP,	Montandon,	sodium,	47.3,	6.833333
+EMEP,	Montfranc,	NH4+.concentration,	45.8,	2.066667
+EMEP,	Morvan,	sodium,	47.266667,	4.083333
+EMEP,	Neuglobsow,	sulphate.corrected,	53.166667,	13.033333
+EMEP,	Niembro,	dibenzo.ah.anthracene,	43.442222,	-4.850278
+EMEP,	Nord-Greenland,	NH3.concentration,	81.6,	-16.67
+EMEP,	Noya,	chloride,	42.728056,	-8.923611
+EMEP,	O.savinao,	magnesium,	43.231111,	-7.699722
+EMEP,	Pallas (Matorova),	benzo.k.fluoranthene,	68,	24.237222222
+EMEP,	Penausende,	sodium,	41.283333,	-5.866667
+EMEP,	Pinega,	sulphate.corrected,	64.7,	43.4
+EMEP,	Rao,	benzo.k.fluoranthene,	57.394,	11.914
+EMEP,	Revin,	SO2.concentration,	49.9,	4.633333
+EMEP,	Risoe,	NH3.concentration,	55.693588,	12.085797
+EMEP,	Rucava,	dibenzo.ah.anthracene,	56.161944,	21.173056
+EMEP,	Saint-Nazaire-le-Désert,	benzo.a.pyrene,	44.569444444,	5.278972222
+EMEP,	San.pablo.de.los.montes,	acenaphthylene,	39.547778,	-4.348611
+EMEP,	Schauinsland,	ethylbenzene,	47.914722,	7.908611
+EMEP,	Schmucke,	dibenzo.ah.anthracene,	50.65,	10.766667
+EMEP,	Sepstrup.sande,	chloride,	55.083333,	9.6
+EMEP,	Sniezka,	sum_ammonia_and_ammonium,	50.733333,	15.733333
+EMEP,	Stara.lesna,	SO4--.concentration,	49.15,	20.283333
+EMEP,	Starina,	chloride,	49.05,	22.266667
+EMEP,	Svratouch,	pm10.concentration,	49.733333,	16.05
+EMEP,	Tange,	NH3.concentration,	56.35,	9.6
+EMEP,	Topolniky,	sulphate.corrected,	47.96,	17.860556
+EMEP,	Ulborg,	chloride,	56.283333,	8.433333
+EMEP,	Valentia,	potassium,	51.939722,	-10.244444
+EMEP,	Verneuil,	calcium,	46.814727778,	2.610008333
+EMEP,	Vilsandi,	NO3-.concentration,	58.383333,	21.816667
+EMEP,	Virolahti III,	O3.concentration,	60.53002,	27.66754
+EMEP,	Viznar,	NO3-.concentration,	37.233333,	-3.533333
+EMEP,	Vredepeel,	NO3-.concentration,	51.541111,	5.853611
+EMEP,	Vysokoe,	sulphate.corrected,	52.333333,	23.433333
+EMEP,	Waldhof,	organic.carbon.concentration,	52.802222,	10.759444
+EMEP,	Westerland,	pm10.concentration,	54.925556,	8.309722
+EMEP,	Zabljak,	NOx.concentration,	43.15,	19.133333
+EMEP,	Zarra,	sum_nitric_acid_and_nitrate,	39.086111,	-1.101944
+EMEP,	Zingst,	benzo.k.fluoranthene,	54.433333,	12.733333
+EMEP,	Zoseni,	O3.concentration,	57.135278,	25.905556
+ACTRIS-INSITU,	Aspvreten,	temperature,	58.8,	17.383333
+ACTRIS-INSITU,	Athens,	temperature,	37.9905,	23.8095
+ACTRIS-INSITU,	Auchencorth.moss,	isoprene,	55.79216,	-3.2429
+ACTRIS-INSITU,	Beo.moussala,	temperature,	42.166667,	23.583333
+ACTRIS-INSITU,	Birkenes II,	elemental.carbon,	58.38853,	8.252
+ACTRIS-INSITU,	Cabauw, Zijdeweg	pressure,	51.970278,	4.926389
+ACTRIS-INSITU,	Chaumont,	NO2.concentration,	47.049722,	6.979444
+ACTRIS-INSITU,	Finokalia,	reference.zero.signal,	35.316667,	25.666667
+ACTRIS-INSITU,	Granada,	pressure,	37.164,	-3.605
+ACTRIS-INSITU,	Harwell,	ethane,	51.573056,	-1.316667
+ACTRIS-INSITU,	Hohenpeissenberg,	m-p-xylene,	47.8,	11.016667
+ACTRIS-INSITU,	Hurdal,	elemental.carbon,	60.372386,	11.078142
+ACTRIS-INSITU,	Hyytiala,	temperature,	61.85,	24.283333
+ACTRIS-INSITU,	Ispra,	particle.number.size.distribution,	45.8,	8.633333
+ACTRIS-INSITU,	Jungfraujoch,	aerosol.scattering.coefficient,	46.5475,	7.985
+ACTRIS-INSITU,	Kosetice,	NO.concentration,	49.573394,	15.080278
+ACTRIS-INSITU,	K-Puszta,	aerosol.absorption.coefficient,	46.966667, 19.583333
+ACTRIS-INSITU,	Kresin u Pacova,	relative.humidity,	49.58333,	15.08333
+ACTRIS-INSITU,	La.tardiere,	1-3-5-trimethylbenzene,	46.65,	-0.75
+ACTRIS-INSITU,	Leipzig,	aerosol.absorption.coefficient,	51.333333,	12.433333
+ACTRIS-INSITU,	London - North Kensington,	particle.number.concentration,	51.521,	-0.2135
+ACTRIS-INSITU,	Mace.head,	sensing.beam.signal,	53.32583,	-9.89944
+ACTRIS-INSITU,	Melpitz,	organic.carbon.concentration,	51.53014,	12.93386
+ACTRIS-INSITU,	Montsec,	temperature,	42.05134,	0.72956
+ACTRIS-INSITU,	Montseny,	aerosol.absorption.coefficient,	41.766667,	2.35
+ACTRIS-INSITU,	Mount Chacaltaya,	equivalent_black_carbon,	-16.2000007629,	-68.0999984741
+ACTRIS-INSITU,	Mt.cimone,	particle.number.concentration,	44.183333,	10.7
+ACTRIS-INSITU,	Observatoire Perenne de l'Environnement,	sensing.zero.signal,	48.5622222222,	5.5055555556
+ACTRIS-INSITU,	Pallas (Sammaltunturi),	particle.number.concentration,	67.973333333,	24.116111111
+ACTRIS-INSITU,	Payerne,	NO2.concentration,	46.813056,	6.944722
+ACTRIS-INSITU,	Peyrusse.vieille,	1-hexene,	43.616667,	0.183333
+ACTRIS-INSITU,	Pic du Midi,	flow.rate,	42.936667,	0.141944
+ACTRIS-INSITU,	Preila,	aerosol.scattering.coefficient,	55.3761111111,	21.0305555556
+ACTRIS-INSITU,	Puy.de.Dome,	total.carbon.concentration,	45.76667,	2.95
+ACTRIS-INSITU,	Rigi,	magnesium,	47.0675,	8.463889
+ACTRIS-INSITU,	Schneefernerhaus,	pressure,	47.4166667,	10.9816667
+ACTRIS-INSITU,	SIRTA Atmospheric Research Observatory,	NO.concentration,	48.7086111111,	2.1588888889
+ACTRIS-INSITU,	Tanikon,	NO2.concentration,	47.479722,	8.904722
+ACTRIS-INSITU,	Troll,	temperature,	-72.016667,	2.533333
+ACTRIS-INSITU,	Trollhaugen,	temperature,	-72.0117,	2.5351
+ACTRIS-INSITU,	Ústí n.L.-mesto,	pressure,	50.66109,	14.04029
+ACTRIS-INSITU,	Vavihill,	organic.carbon.concentration,	56.016667,	13.15
+ACTRIS-INSITU,	Zeppelin mountain (Ny-Ålesund),	pressure,	78.906667,	11.888333

@@ -5,12 +5,77 @@
 
 <style>
 
+path {
+  stroke: grey;
+  stroke-width: 0.25px;
+  fill: #cdc;
+}
+
+svg {
+margin:50px;
+background-color:#deebf7;
+}
+
+body {
+background-color:#f5f5f5;
+}
+    
+/*Legend and title styling*/
+
+    .legend-text {
+        /*font-size: 1.2em;*/
+        font-size:15px;
+    }
+    
+  .my-legend .legend-title {
+    text-align: left;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 120%;
+    }
+    
+  .my-legend .legend-scale ul {
+    margin: 0;
+    margin-bottom: 5px;
+    padding: 0;
+    /*float: left;*/
+    list-style: none;
+    }
+    
+  .my-legend .legend-scale ul li {
+    font-size: 100%;
+    list-style: none;
+    margin-left: 0;
+    line-height: 18px;
+    margin-bottom: 2px;
+    }
+    
+  .my-legend ul.legend-labels li span {
+    display: block;
+    float: left;
+    height: 16px;
+    width: 30px;
+    margin-right: 5px;
+    margin-left: 0;
+    border: 1px solid #999;
+    }
+    
+  .my-legend a {
+    color: #777;
+    }
+    
     .map-title {
         font-family: Arial, Helvetica, sans-serif;	
 
     }
+    
+    
 
-</style>    
+</style> 
+    
+    
+<script src="https://d3js.org/d3.v3.min.js"></script>
+<script src="https://d3js.org/topojson.v0.min.js"></script>
 
 </head>
 
@@ -26,8 +91,18 @@
 
 <h2 class="map-title"><a href="/maps/tracegases_and_profiles/index.html">Tracegases + Profiles</a></h2>
 
+<h2 class="map-title">Existing and future stations</h2>
 
+<div class='my-legend' >
+<div class='legend-scale'>
+  <ul class='legend-labels'>
+    <li><span style='background:red;'></span><p class="legend-text">Future</p></li>
+    <li><span style='background:blue;'></span><p class="legend-text">Existing</p></li>
+  </ul>
+</div>
+</div>
     
+<script src="existing_and_future.js"></script>
 
 
 </body>

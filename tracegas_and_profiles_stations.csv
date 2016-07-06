@@ -1,0 +1,132 @@
+network,location,component,lat,lon,station_type
+EMEP,Abastumani,	SO2.concentration,	41.755053,	42.825333,	tracegases
+EMEP,	Ahtari,	SO2.concentration,	62.583333,	24.183333,	tracegases
+EMEP,	Amberd,	NH3.concentration,	40.38444444,	44.260583333,	tracegases
+EMEP,	Anholt,	NO.concentration,	56.716667,	11.516667,	tracegases
+EMEP,	Auchencorth.moss,	1-2-4-trimethylbenzene,	55.79216,	-3.2429,	tracegases
+EMEP,	Auchencorth.moss,	reactive.gaseous.mercury,	55.79216,	-3.2429,	tracegases
+EMEP,	Ayia.marina,	NO2.concentration,	35.039165,	33.058056,	tracegases
+EMEP,	Barcarrota,	NH3.concentration,	38.475833,	-6.922778,	tracegases
+ACTRIS-INSITU,	Birkenes II,	isoprene,	58.38853,	8.252,	tracegases
+EMEP,	Cabauw Wielsekade,	CO.concentration,	51.974444,	4.923611,	tracegases
+EMEP,	Cabo.de.creus,	NO2.concentration,	42.319444,	3.316944,	tracegases
+EMEP,	Campisabalos,	NO2.concentration,	41.281111,	-3.142778,	tracegases
+ACTRIS-INSITU,	Chaumont,	NO2.concentration,	47.049722,	6.979444,	tracegases
+EMEP,	Chopok,	NO2.concentration,	48.933333,	19.583333,	tracegases
+EMEP,	Churanov,	SO2.concentration,	49.066667,	13.6,	tracegases
+EMEP,	De.zilk,	NOx.concentration,	52.3,	4.5,	tracegases
+EMEP,	Diabla.gora-Puszcza.borecka,	NO2.concentration,	54.15,	22.066667,	tracegases
+EMEP,	Doñana,	SO2.concentration,	37.0305,	-6.3319,	tracegases
+EMEP,	Doñana,	O3.concentration,	37.0305,	-6.3319,	tracegases
+EMEP,	Eibergen,	SO2.concentration,	52.083333,	6.566667,	tracegases
+EMEP,	Els.torms,	SO2.concentration,	41.4,	0.716667,	tracegases
+EMEP,	Eupen,	NO2.concentration,	50.629421,	6.001019,	tracegases
+EMEP,	Graz Lustbuehel,	O3.concentration,	47.066944444,	15.493611111,	tracegases
+EMEP,	Harwell,	NO2.concentration,	51.573056,	-1.316667,	tracegases
+ACTRIS-INSITU,	Hohenpeissenberg,	cyclo-pentane,	47.8,	11.016667,	tracegases
+EMEP,	Hurdal,	O3.concentration,	60.372386,	11.078142,	tracegases
+ACTRIS-INSITU,	Hyytiala,	nitrogen_dioxide_plus,	61.85,	24.283333,	tracegases
+EMEP,	Iskrba,	NO2.concentration,	45.566667,	14.866667,	tracegases
+EMEP,	Ispra,	SO2.concentration,	45.8,	8.633333,	tracegases
+EMEP,	Jarczew,	NO2.concentration,	51.816667,	21.983333,	tracegases
+ACTRIS-INSITU,	Jungfraujoch,	propane,	46.5475,	7.985,	tracegases
+EMEP,	Karvatn,	NO2.concentration,	62.783333,	8.883333,	tracegases
+EMEP,	Kollumerwaard,	O3.concentration,	53.333889,	6.277222,	tracegases
+ACTRIS-INSITU,	Kosetice,	propane,	49.573394,	15.080278,	tracegases
+EMEP,	K-Puszta,	NH3.concentration,	46.966667,	19.583333,	tracegases
+EMEP,	Kresin u Pacova,	O3.concentration,	49.58333,	15.08333,	tracegases
+EMEP,	Krvavec,	CO.concentration,	46.299444,	14.538611,	tracegases
+EMEP,	La.tardiere,	ethene,	46.65,	-0.75,	tracegases
+EMEP,	La.tardiere,	2-methylpropane,	46.65,	-0.75,	tracegases
+EMEP,	Lahemaa,	CO.concentration,	59.5,	25.9,	tracegases
+EMEP,	Lazaropole,	SO2.concentration,	41.536111,	20.69389,	tracegases
+EMEP,	Leba,	SO2.concentration,	54.75,	17.533333,	tracegases
+EMEP,	Leova II,	HNO3.concentration,	46.4884,	28.2835,	tracegases
+EMEP,	Lesnoy,	SO2.concentration,	56.53,	32.94,	tracegases
+EMEP,	Mace.head,	O3.concentration,	53.32583,	-9.89944,	tracegases
+EMEP,	Mahon,	O3.concentration,	39.866667,	4.316667,	tracegases
+ACTRIS-INSITU,	Melpitz,	NO.concentration,	51.53014,	12.93386,	tracegases
+EMEP,	Mt.cimone,	propane,	44.183333,	10.7,	tracegases
+EMEP,	Neuglobsow,	O3.concentration,	53.166667,	13.033333,	tracegases
+EMEP,	Niembro,	NO.concentration,	43.442222,	-4.850278,	tracegases
+EMEP,	Nord-Greenland,	NH3.concentration,	81.6,	-16.67,	tracegases
+EMEP,	Noya,	O3.concentration,	42.728056,	-8.923611,	tracegases
+EMEP,	O.savinao,	O3.concentration,	43.231111,	-7.699722,	tracegases
+EMEP,	Offagne,	NO2.concentration,	49.877778,	5.203611,	tracegases
+EMEP,	Oulanka,	HNO3.concentration,	66.320278,	29.401667,	tracegases
+EMEP,	Pallas (Matorova),	HNO3.concentration,	68,	24.237222222,	tracegases
+ACTRIS-INSITU,	Pallas (Sammaltunturi),	propene,	67.973333333,	24.116111111,	tracegases
+ACTRIS-INSITU,	Payerne,	NO2.concentration,	46.813056,	6.944722,	tracegases
+EMEP,	Penausende,	O3.concentration,	41.283333,	-5.866667, tracegases
+ACTRIS-INSITU,	Peyrusse.vieille,	propyne,	43.616667,	0.183333,	tracegases
+EMEP,	Peyrusse.vieille,	1-3-5-trimethylbenzene,	43.616667,	0.183333,	tracegases
+EMEP,	Pic du Midi,	CO.concentration,	42.936667,	0.141944,	tracegases
+EMEP,	Poiana Stampei,	SO2.concentration,	47.324792,	25.134664,	tracegases
+EMEP,	Preila,	NO2.concentration,	55.3761111111,	21.0305555556,	tracegases
+EMEP,	Puy.de.Dome,	CO.concentration,	45.76667,	2.95,	tracegases
+EMEP,	Revin,	SO2.concentration,	49.9,	4.633333,	tracegases
+ACTRIS-INSITU,	Rigi,	isohexanes,	47.0675,	8.463889,	tracegases
+EMEP,	Risoe,	SO2.concentration,	55.693588,	12.085797,	tracegases
+EMEP,	Risoe,	NH3.concentration,	55.693588,	12.085797,	tracegases
+EMEP,	Rucava,	O3.concentration,	56.161944,	21.173056,	tracegases
+EMEP,	Rucava,	NO2.concentration,	56.161944,	21.173056,	tracegases
+EMEP,	Saint-Nazaire-le-Désert,	O3.concentration,	44.569444444,	5.278972222,	tracegases
+EMEP,	San.pablo.de.los.montes,	trans-2-butene,	39.547778,	-4.348611,	tracegases
+EMEP,	Schauinsland,	pentenes,	47.914722,	7.908611,	tracegases
+EMEP,	Schmucke,	2-methylpropene,	50.65,	10.766667,	tracegases
+EMEP,	Semenic,	NO2.concentration,	45.116667,	25.966667,	tracegases
+ACTRIS-INSITU,	SIRTA Atmospheric Research Observatory,	NO2.concentration,	48.7086111111,	2.1588888889,	tracegases
+EMEP,	Sniezka,	SO2.concentration,	50.733333,	15.733333,	tracegases
+EMEP,	Starina,	ethyne,	49.05,	22.266667,	tracegases
+EMEP,	Tange,	SO2.concentration,	56.35,	9.6,	tracegases
+ACTRIS-INSITU,	Tanikon,	NO2.concentration,	47.479722,	8.904722,	tracegases
+EMEP,	Troll,	mercury,	-72.016667,	2.533333,	tracegases
+EMEP,	Tustervatn,	HNO3.concentration,	65.833333,	13.916667,	tracegases
+EMEP,	Ulborg,	SO2.concentration,	56.283333,	8.433333,	tracegases
+EMEP,	Uto,	SO2.concentration,	59.779167,	21.377222,	tracegases
+EMEP,	Valentia,	SO2.concentration,	51.939722,	-10.244444,	tracegases
+EMEP,	Verneuil,	O3.concentration,	46.814727778,	2.610008333,	tracegases
+EMEP,	Vezin,	O3.concentration,	50.503333,	4.989444,	tracegases
+EMEP,	Vilsandi,	O3.concentration,	58.383333,	21.816667,	tracegases
+EMEP,	Virolahti,	NH3.concentration,	60.526667,	27.686111,	tracegases
+EMEP,	Virolahti III,	O3.concentration,	60.53002,	27.66754,	tracegases
+EMEP,	Viznar,	NH3.concentration,	37.233333,	-3.533333,	tracegases
+EMEP,	Vredepeel,	NO.concentration,	51.541111,	5.853611,	tracegases
+EMEP,	Waldhof,	ethyne,	52.802222,	10.759444,	tracegases
+EMEP,	Westerland,	NO2.concentration,	54.925556,	8.309722,	tracegases
+EMEP,	Zabljak,	NOx.concentration,	43.15,	19.133333,	tracegases
+EMEP,	Zarodnje,	O3.concentration,	46.428611,	15.003333,	tracegases
+EMEP,	Zarra,	NO.concentration,	39.086111,	-1.101944,	tracegases
+EMEP,	Zeppelin mountain (Ny-Ålesund),	CO2.concentration,	78.906667,	11.888333,	tracegases
+EMEP,	Zingst,	NH3.concentration,	54.433333,	12.733333,	tracegases
+ACTRIS-EARLINET,	Alomar,	aerosol.backscatter.coefficient,	69.278,	16.008,	profiles
+ACTRIS-EARLINET,	Astrophysical Laboratory Catania,	aerosol.backscatter.coefficient,	37.5,	15.07,	profiles
+ACTRIS-EARLINET,	Athens,	aerosol.backscatter.coefficient,	37.96,	23.78,	profiles
+ACTRIS-EARLINET,	Barcelona,	aerosol.backscatter.coefficient,	41.393,	2.12,	profiles
+ACTRIS-EARLINET,	Belsk,	aerosol.backscatter.coefficient,	51.835,	20.791,	profiles
+ACTRIS-EARLINET,	Belsk,	aerosol.backscatter.coefficient,	51.5,	20.47,	profiles
+ACTRIS-EARLINET,	Bucharest,	aerosol.backscatter.coefficient,	44.348,	26.029,	profiles
+ACTRIS-EARLINET,	Cabauw,	aerosol.backscatter.coefficient,	51.97,	4.93,	profiles
+ACTRIS-EARLINET,	Clermont-Ferrand,	aerosol.backscatter.coefficient,	45.761,	3.111,	profiles
+ACTRIS-EARLINET,	Cork,	aerosol.backscatter.coefficient,	51.893,	-8.494,	profiles
+ACTRIS-EARLINET,	Evora,	aerosol.backscatter.coefficient,	38.5678,	7.9115,	profiles
+ACTRIS-EARLINET,	Garmisch.partenkirchen,	aerosol.backscatter.coefficient,	47.477,	11.064,	profiles
+ACTRIS-EARLINET,	Granada,	aerosol.backscatter.coefficient,	37.16,	-3.6,	profiles
+ACTRIS-EARLINET,	Ispra,	aerosol.backscatter.coefficient,	45.815,	8.638,	profiles
+ACTRIS-EARLINET,	Ispra,	aerosol.backscatter.coefficient,	45.8244,	8.6377,	profiles
+ACTRIS-EARLINET,	Kuopio,	aerosol.backscatter.coefficient,	62.74,	27.54,	profiles
+ACTRIS-EARLINET,	L.aquila,	aerosol.backscatter.coefficient,	42.37,	13.35,	profiles
+ACTRIS-EARLINET,	Lecce,	aerosol.backscatter.coefficient,	40.3,	18.1,	profiles
+ACTRIS-EARLINET,	Leipzig,	aerosol.backscatter.coefficient,	51.35,	12.43,	profiles
+ACTRIS-EARLINET,	Limassol,	aerosol.backscatter.coefficient,	34.67,	33.04,	profiles
+ACTRIS-EARLINET,	Madrid,	aerosol.backscatter.coefficient,	40.45,	-3.73,	profiles
+ACTRIS-EARLINET,	Maisach,	aerosol.backscatter.coefficient,	48.209,	11.258,	profiles
+ACTRIS-EARLINET,	Minsk,	aerosol.backscatter.coefficient,	53.92,	27.6,	profiles
+ACTRIS-EARLINET,	Napoli,	aerosol.backscatter.coefficient,	40.838,	14.183,	profiles
+ACTRIS-EARLINET,	Nicolosi,	aerosol.backscatter.coefficient,	37.734,	15.004,	profiles
+ACTRIS-EARLINET,	Palaiseau,	aerosol.backscatter.coefficient,	48.713,	2.208,	profiles
+ACTRIS-EARLINET,	Payerne,	aerosol.backscatter.coefficient,	46.8,	6.9,	profiles
+ACTRIS-EARLINET,	Potenza,	aerosol.backscatter.coefficient,	40.7,	15.27,	profiles
+ACTRIS-EARLINET,	Sofia,	aerosol.backscatter.coefficient,	42.65,	23.38,	profiles
+ACTRIS-EARLINET,	Thessaloniki,	aerosol.backscatter.coefficient,	40.5,	22.9,	profiles
+ACTRIS-EARLINET,	Warsaw,	aerosol.backscatter.coefficient,	52.21,	20.98,	profiles
