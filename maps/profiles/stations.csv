@@ -1,11 +1,32 @@
-color,city,country,lat,lon
-red,none,unknown, 59.9748084,11.044871
-red,none,unknown,53.920,27.601
-red,none,unknown,51.840,20.790
-red,none,unknown,42.670,23.330
-red,none,unknown,48.700,2.200
-blue,none,unknown,43.935,5.712
-blue,none,unknown,47.477,11.064
-black,none,unknown,53.568,9.973
-green,none,unknown,51.353,12.435,
-black,none,unknown,48.209,11.258
+network,Location,Component,lat,lon
+ACTRIS-EARLINET,	Alomar,	aerosol.backscatter.coefficient,	69.278,	16.008
+ACTRIS-EARLINET,	Astrophysical Laboratory Catania,	aerosol.backscatter.coefficient,	37.5,	15.07
+ACTRIS-EARLINET,	Athens,	aerosol.backscatter.coefficient,	37.96,	23.78
+ACTRIS-EARLINET,	Barcelona,	aerosol.backscatter.coefficient,	41.393,	2.12
+ACTRIS-EARLINET,	Belsk,	aerosol.backscatter.coefficient,	51.835,	20.791
+ACTRIS-EARLINET,	Belsk,	aerosol.backscatter.coefficient,	51.5,	20.47
+ACTRIS-EARLINET,	Bucharest,	aerosol.backscatter.coefficient,	44.348,	26.029
+ACTRIS-EARLINET,	Cabauw,	aerosol.backscatter.coefficient,	51.97,	4.93
+ACTRIS-EARLINET,	Clermont-Ferrand,	aerosol.backscatter.coefficient,	45.761,	3.111
+ACTRIS-EARLINET,	Cork,	aerosol.backscatter.coefficient,	51.893,	-8.494
+ACTRIS-EARLINET,	Evora,	aerosol.backscatter.coefficient,	38.5678,	7.9115
+ACTRIS-EARLINET,	Garmisch.partenkirchen,	aerosol.backscatter.coefficient,	47.477,	11.064
+ACTRIS-EARLINET,	Granada,	aerosol.backscatter.coefficient,	37.16,	-3.6
+ACTRIS-EARLINET,	Ispra,	aerosol.backscatter.coefficient,	45.815,	8.638
+ACTRIS-EARLINET,	Ispra,	aerosol.backscatter.coefficient,	45.8244,	8.6377
+ACTRIS-EARLINET,	Kuopio,	aerosol.backscatter.coefficient,	62.74,	27.54
+ACTRIS-EARLINET,	L.aquila,	aerosol.backscatter.coefficient,	42.37,	13.35
+ACTRIS-EARLINET,	Lecce,	aerosol.backscatter.coefficient,	40.3,	18.1
+ACTRIS-EARLINET,	Leipzig,	aerosol.backscatter.coefficient,	51.35,	12.43
+ACTRIS-EARLINET,	Limassol,	aerosol.backscatter.coefficient,	34.67,	33.04
+ACTRIS-EARLINET,	Madrid,	aerosol.backscatter.coefficient,	40.45,	-3.73
+ACTRIS-EARLINET,	Maisach,	aerosol.backscatter.coefficient,	48.209,	11.258
+ACTRIS-EARLINET,	Minsk,	aerosol.backscatter.coefficient,	53.92,	27.6
+ACTRIS-EARLINET,	Napoli,	aerosol.backscatter.coefficient,	40.838,	14.183
+ACTRIS-EARLINET,	Nicolosi,	aerosol.backscatter.coefficient,	37.734,	15.004
+ACTRIS-EARLINET,	Palaiseau,	aerosol.backscatter.coefficient,	48.713,	2.208
+ACTRIS-EARLINET,	Payerne,	aerosol.backscatter.coefficient,	46.8,	6.9
+ACTRIS-EARLINET,	Potenza,	aerosol.backscatter.coefficient,	40.7,	15.27
+ACTRIS-EARLINET,	Sofia,	aerosol.backscatter.coefficient,	42.65,	23.38
+ACTRIS-EARLINET,	Thessaloniki,	aerosol.backscatter.coefficient,	40.5,	22.9
+ACTRIS-EARLINET,	Warsaw,	aerosol.backscatter.coefficient,	52.21,	20.98

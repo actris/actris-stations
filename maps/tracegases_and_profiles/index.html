@@ -77,16 +77,16 @@ background-color:#f5f5f5;
 
 <img src="http://www.actris.eu/Portals/46/Images/Logos/logo-actris_new_140.png?ver=2015-06-08-141001-817">
 
-<h2 class="map-title">TraceGases</h2>
+<h2 class="map-title">Tracegases + Profiles</h2>
 
 <div class='my-legend' >
 <!--<div class='legend-title'>Legend:</div>-->
 <div class='legend-scale'>
   <ul class='legend-labels'>
-    <li><span style='background:red;'></span><p class="legend-text">Aerosol in-situ</p></li>
-    <li><span style='background:blue;'></span><p class="legend-text">Trace gas in-situ</p></li>
-    <li><span style='background:black;'></span><p class="legend-text">Aerosol profiling</p></li>
-    <li><span style='background:green;'></span><p class="legend-text">Cloud profiling</p></li>
+    <li><span style='background:red;'></span><p class="legend-text">tracegases</p></li>
+    <li><span style='background:blue;'></span><p class="legend-text">Profiles</p></li>
+    <!--<li><span style='background:black;'></span><p class="legend-text">Aerosol profiling</p></li>
+    <li><span style='background:green;'></span><p class="legend-text">Cloud profiling</p></li>-->
   </ul>
 </div>
 </div>
@@ -121,11 +121,14 @@ var g = svg.append("g");
 // load and display the World
 d3.json("world-110m2.json", function(error, topology) {
 
+
+
+    
 // load and display the data
 d3.csv("stations.csv", function(error, data) {
 
 
-
+var i = 0;
     g.selectAll("circle")
        .data(data)
        .enter()
@@ -140,22 +143,23 @@ d3.csv("stations.csv", function(error, data) {
        .attr("cy", function(d) {
                return projection([d.lon, d.lat])[1];
        })
-       .attr("r", 10)
-       .style("fill", function(d){
-
-       		if(d.color == "red"){
+       .attr("r", 5)
+       .style("stroke", function(d){
+        
+        i = i + 1;
+        console.log(i);
+            
+       		if(i == 0 || i < 103){
                   return "red";     
-                }else if(d.color == "blue"){
+            }else {
                   return "blue";     
-                }
-		else if(d.color == "black"){
-                  return "black";     
-                }
-		else if(d.color == "green"){
-                  return "green";     
-                }
+            }
+        
        })
-       .attr("opacity", ".6");
+        .attr("fill", "none")
+       .attr("opacity", ".4");
+    
+    
     
 
        
