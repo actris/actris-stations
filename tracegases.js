@@ -9,24 +9,24 @@ var projection = d3.geo.mercator()
     .scale(600)
     .rotate([0,0]);
 
-var svg = d3.select("#existing-and-future").append("svg")
+var svg = d3.select("#tracegases").append("svg")
     .attr("width", width)
     .attr("height", height);
 
 var path = d3.geo.path()
     .projection(projection);
 
-var g1 = svg.append("g");
+var g3 = svg.append("g");
 
 // load and display the World
 d3.json("world-110m2.json", function(error, topology) {
 
 // load and display the data
-d3.csv("existing_and_future_stations.csv", function(error, data) {
+d3.csv("tracegas_stations.csv", function(error, data) {
 
 
 
-    g1.selectAll("circle")
+    g3.selectAll("circle")
        .data(data)
        .enter()
        .append("a")
@@ -34,35 +34,38 @@ d3.csv("existing_and_future_stations.csv", function(error, data) {
 			return "http://actris.nilu.no/";}
 	)
        .append("circle")
-                .attr("class","existing_and_profiles")
        .attr("cx", function(d) {
                return projection([d.lon, d.lat])[0];
        })
        .attr("cy", function(d) {
                return projection([d.lon, d.lat])[1];
        })
-       .attr("r", 3)
+       .attr("r", 5)
        .style("fill", function(d){
 
-       		if(d.network == "EMEP"){
+       		if(d.color == "red"){
                   return "red";     
-            }else if(d.network == "ACTRIS-INSITU"){
+                }else if(d.color == "blue"){
                   return "blue";     
-            }
-		
-		
+                }
+		else if(d.color == "black"){
+                  return "black";     
+                }
+		else if(d.color == "green"){
+                  return "green";     
+                }
        })
-       .attr("opacity", ".6");
-    
-
-       
-
+       .attr("opacity", ".7");
+	
+  d3.select("circle").append("text")
+  .text("works")
+  .attr("font-weight","bold")	
 
 
 });
 
 
-g1.selectAll("path")
+g3.selectAll("path")
       .data(topojson.object(topology, topology.objects.countries)
           .geometries)
     .enter()
@@ -73,11 +76,11 @@ g1.selectAll("path")
 // zoom and pan
 var zoom = d3.behavior.zoom()
     .on("zoom",function() {
-        g1.attr("transform","translate("+ 
+        g3.attr("transform","translate("+ 
             d3.event.translate.join(",")+")scale("+d3.event.scale+")");
-        g1.selectAll("circle")
+        g3.selectAll("circle")
             .attr("d", path.projection(projection));
-        g1.selectAll("path")  
+        g3.selectAll("path")  
             .attr("d", path.projection(projection)); 
 
   });
