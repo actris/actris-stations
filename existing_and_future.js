@@ -41,17 +41,30 @@ d3.csv("existing_and_future_stations.csv", function(error, data) {
        .attr("cy", function(d) {
                return projection([d.lon, d.lat])[1];
        })
-       .attr("r", 3)
-       .style("fill", function(d){
-
-       		if(d.network == "EMEP"){
-                  return "red";     
-            }else if(d.network == "ACTRIS-INSITU"){
-                  return "blue";     
+        .each(function (d, i) {
+            if (d.network == "EMEP") {
+              // put all your operations on the second element, e.g.
+              d3.select(this).attr("r", 4);    
             }
-		
-		
-       })
+            else if(d.network == "ACTRIS-INSITU"){
+                d3.select(this).attr("r", 2);
+            }})
+        .each(function (d, i) {
+            if (d.network == "EMEP") {
+              // put all your operations on the second element, e.g.
+              d3.select(this).attr("stroke", "red");    
+            }
+            else if(d.network == "ACTRIS-INSITU"){
+                d3.select(this).attr("stroke", "blue");
+            }})
+        .each(function (d, i) {
+            if (d.network == "EMEP") {
+              // put all your operations on the second element, e.g.
+              d3.select(this).attr("fill", "none");    
+            }
+            else if(d.network == "ACTRIS-INSITU"){
+                d3.select(this).attr("fill", "blue");
+            }})
        .attr("opacity", ".6");
     
 
