@@ -1,0 +1,101 @@
+color,Network,Location,Component,lat,lon
+red,EMEP,Abastumani,SO2.concentration,41.755053,42.825333
+red,EMEP,Ahtari,SO2.concentration,62.583333,24.183333
+red,EMEP,Amberd,NH3.concentration,40.38444444,44.260583333
+red,EMEP,Anholt,NO.concentration,56.716667,11.516667
+red,EMEP,Auchencorth.moss,1-2-4-trimethylbenzene,55.79216,-3.242
+red,EMEP,Auchencorth.moss,reactive.gaseous.mercury,55.79216,-3.2429
+red,EMEP,Ayia.marina,NO2.concentration,35.039165,33.058056
+red,EMEP,Barcarrota,NH3.concentration,38.475833,-6.922778
+red,ACTRIS-INSITU,Birkenes II,isoprene,58.38853,8.252
+red,EMEP,Cabauw Wielsekade,CO.concentration,51.974444,4.923611
+red,EMEP,Cabo.de.creus,NO2.concentration,42.319444,3.316944
+red,EMEP,	Campisabalos,	NO2.concentration,	41.281111,	-3.142778
+red,ACTRIS-INSITU,	Chaumont,	NO2.concentration,	47.049722,	6.979444
+red,EMEP,	Chopok,	NO2.concentration,	48.933333,	19.583333
+red,EMEP,	Churanov,	SO2.concentration,	49.066667,	13.6
+red,EMEP,	De.zilk,	NOx.concentration,	52.3,	4.5
+red,EMEP,	Diabla.gora-Puszcza.borecka,	NO2.concentration,	54.15,	22.066667
+red,EMEP,	Doñana,	SO2.concentration,	37.0305,	-6.3319
+red,EMEP,	Doñana,	O3.concentration,	37.0305,	-6.3319
+red,EMEP,	Eibergen,	SO2.concentration,	52.083333,	6.566667
+red,EMEP,	Els.torms,	SO2.concentration,	41.4,	0.716667
+red, EMEP,	Eupen,	NO2.concentration,	50.629421,	6.001019
+red, EMEP,	Graz Lustbuehel,	O3.concentration,	47.066944444,	15.493611111
+red, EMEP,	Harwell,	NO2.concentration,	51.573056,	-1.316667
+red, ACTRIS-INSITU,	Hohenpeissenberg,	cyclo-pentane,	47.8,	11.016667
+red, EMEP,	Hurdal,	O3.concentration,	60.372386,	11.078142
+red, ACTRIS-INSITU,	Hyytiala,	nitrogen_dioxide_plus,	61.85,	24.283333
+red, EMEP,	Iskrba,	NO2.concentration,	45.566667,	14.866667
+red, EMEP,	Ispra,	SO2.concentration,	45.8,	8.633333
+red, EMEP,	Jarczew,	NO2.concentration,	51.816667,	21.983333
+red, ACTRIS-INSITU,	Jungfraujoch,	propane,	46.5475,	7.985
+red, EMEP,	Karvatn,	NO2.concentration,	62.783333,	8.883333
+red, EMEP,	Kollumerwaard,	O3.concentration,	53.333889,	6.277222
+red, ACTRIS-INSITU,	Kosetice,	propane,	49.573394,	15.080278
+red, EMEP,	K-Puszta,	NH3.concentration,	46.966667,	19.583333
+red, EMEP,	Kresin u Pacova,	O3.concentration,	49.58333,	15.08333
+red, EMEP,	Krvavec,	CO.concentration,	46.299444,	14.538611
+red, EMEP,	La.tardiere,	ethene,	46.65,	-0.75
+red, EMEP,	La.tardiere,	2-methylpropane	46.65	-0.75
+red, EMEP,	Lahemaa	CO.concentration,	59.5,	25.9
+red, EMEP,	Lazaropole,	SO2.concentration,	41.536111,	20.69389
+red, EMEP,	Leba,	SO2.concentration,	54.75,	17.533333
+red, EMEP,	Leova II,	HNO3.concentration,	46.4884,	28.2835
+red, EMEP,	Lesnoy,	SO2.concentration,	56.53,	32.94
+red, EMEP,	Mace.head,	O3.concentration,	53.32583,	-9.89944
+red, EMEP,	Mahon,	O3.concentration,	39.866667,	4.316667
+red, ACTRIS-INSITU,	Melpitz,	NO.concentration,	51.53014,	12.93386
+red, EMEP,	Mt.cimone,	propane,	44.183333,	10.7
+red, EMEP,	Neuglobsow,	O3.concentration,	53.166667,	13.033333
+red, EMEP,	Niembro,	NO.concentration,	43.442222,	-4.850278
+red, EMEP,	Nord-Greenland,	NH3.concentration,	81.6,	-16.67
+red, EMEP,	Noya,	O3.concentration,	42.728056,	-8.923611
+red, EMEP,	O.savinao,	O3.concentration,	43.231111,	-7.699722
+red, EMEP,	Offagne,	NO2.concentration,	49.877778,	5.203611
+red, EMEP,	Oulanka,	HNO3.concentration,	66.320278,	29.401667
+red, EMEP,	Pallas (Matorova),	HNO3.concentration,	68,	24.237222222
+red, ACTRIS-INSITU,	Pallas (Sammaltunturi),	propene,	67.973333333,	24.116111111
+red, ACTRIS-INSITU,	Payerne,	NO2.concentration,	46.813056,	6.944722
+red, EMEP,	Penausende,	O3.concentration,	41.283333,	-5.866667
+red, ACTRIS-INSITU,	Peyrusse.vieille,	propyne,	43.616667,	0.183333
+red, EMEP,	Peyrusse.vieille,	1-3-5-trimethylbenzene,	43.616667,	0.183333
+red, EMEP,	Pic du Midi,	CO.concentration,	42.936667,	0.141944
+red, EMEP,	Poiana Stampei,	SO2.concentration,	47.324792,	25.134664
+red, EMEP,	Preila,	NO2.concentration,	55.3761111111,	21.0305555556
+red, EMEP,	Puy.de.Dome	CO.concentration	45.76667	2.95
+red, EMEP,	Revin,	SO2.concentration,	49.9,	4.633333
+red, ACTRIS-INSITU,	Rigi,	isohexanes,	47.0675,	8.463889
+red, EMEP,	Risoe,	SO2.concentration,	55.693588,	12.085797
+red, EMEP,	Risoe,	NH3.concentration,	55.693588,	12.085797
+red, EMEP,	Rucava,	O3.concentration,	56.161944,	21.173056
+red, EMEP,	Rucava,	NO2.concentration,	56.161944,	21.173056
+red, EMEP,	Saint-Nazaire-le-Désert,	O3.concentration,	44.569444444,	5.278972222
+red, EMEP,	San.pablo.de.los.montes,	trans-2-butene,	39.547778,	-4.348611
+red, EMEP,	Schauinsland,	pentenes,	47.914722,	7.908611
+red, EMEP,	Schmucke,	2-methylpropene,	50.65,	10.766667
+red, EMEP,	Semenic,	NO2.concentration,	45.116667,	25.966667
+red, ACTRIS-INSITU,	SIRTA Atmospheric Research Observatory,	NO2.concentration,	48.7086111111,	2.1588888889
+red, EMEP,	Sniezka,	SO2.concentration,	50.733333,	15.733333
+red, EMEP,	Starina,	ethyne,	49.05,	22.266667
+red, EMEP,	Tange,	SO2.concentration,	56.35,	9.6
+red, ACTRIS-INSITU,	Tanikon,	NO2.concentration,	47.479722,	8.904722
+red, EMEP,	Troll,	mercury,	-72.016667,	2.533333,
+red, EMEP,	Tustervatn,	HNO3.concentration,	65.833333,	13.916667
+red, EMEP,	Ulborg,	SO2.concentration,	56.283333,	8.433333
+red, EMEP,	Uto,	SO2.concentration,	59.779167,	21.377222
+red, EMEP,	Valentia,	SO2.concentration,	51.939722,	-10.244444
+red, EMEP,	Verneuil,	O3.concentration,	46.814727778,	2.610008333
+red, EMEP,	Vezin,	O3.concentration,	50.503333,	4.989444
+red, EMEP,	Vilsandi,	O3.concentration,	58.383333,	21.816667
+red, EMEP,	Virolahti,	NH3.concentration,	60.526667,	27.686111
+red, EMEP,	Virolahti III,	O3.concentration,	60.53002,	27.66754
+red, EMEP,	Viznar,	NH3.concentration,	37.233333,	-3.533333
+red, EMEP,	Vredepeel,	NO.concentration,	51.541111,	5.853611
+red, EMEP,	Waldhof,	ethyne,	52.802222,	10.759444
+red, EMEP,	Westerland,	NO2.concentration,	54.925556,	8.309722
+red, EMEP,	Zabljak,	NOx.concentration,	43.15,	19.133333
+red, EMEP,	Zarodnje,	O3.concentration,	46.428611,	15.003333
+red, EMEP,	Zarra,	NO.concentration,	39.086111,	-1.101944
+red, EMEP,	Zeppelin mountain (Ny-Ålesund),	CO2.concentration,	78.906667,	11.888333
+red, EMEP,	Zingst,	NH3.concentration,	54.433333,	12.733333

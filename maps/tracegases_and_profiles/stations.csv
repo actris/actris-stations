@@ -1,0 +1,12 @@
+color, Database/Network, Location, Component, lat, lon
+red, EMEP,	Abastumani,	SO2.concentration,	41.755053,	42.825333
+EMEP, Ahtari,	SO2.concentration,	62.583333,	24.183333
+EMEP, Amberd, NH3.concentration, 40.38444444, 44.260583333
+EMEP, Anholt, NO.concentration, 56.716667, 11.516667
+EMEP, Auchencorth.moss, 1-2-4-trimethylbenzene, 55.79216, -3.242
+EMEP,	Auchencorth.moss,	reactive.gaseous.mercury,	55.79216,	-3.2429
+EMEP,	Ayia.marina,	NO2.concentration,	35.039165,	33.058056
+EMEP,	Barcarrota,	NH3.concentration,	38.475833,	-6.922778
+ACTRIS-INSITU,	Birkenes II,	isoprene,	58.38853,	8.252
+EMEP,	Cabauw Wielsekade,	CO.concentration,	51.974444,	4.923611
+EMEP,	Cabo.de.creus,	NO2.concentration,	42.319444,	3.316944
